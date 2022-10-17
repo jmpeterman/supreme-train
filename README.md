@@ -1,2 +1,2 @@
 # supreme-train
-sets of coding challenges for future reference
+coding challenges for future reference found in chals file
